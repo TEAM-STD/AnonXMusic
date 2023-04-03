@@ -24,7 +24,7 @@
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "6255166842:AAE6GVvj5w6mRPYrwj-oGgCVA3hChm5Wsfs",
+        "value": "6255166842:AAHx0b0JCX8E1OjdmtYzUr3ymhDr7IrG58A",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -59,7 +59,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "-1001728142297",
+        "value": "-1001946195853",
         "required": true
       }
     },
